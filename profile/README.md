@@ -5,15 +5,15 @@
 
 <p align="center">
   <a href="https://shellnaga.sh/#download">Download</a> ·
-  <a href="https://github.com/shellnaga/shellnaga/releases">Releases</a> ·
-  <a href="https://github.com/shellnaga/shellnaga/blob/main/CHANGELOG.md">Changelog</a> ·
-  <a href="https://github.com/shellnaga/shellnaga/issues/new/choose">Report a bug</a> ·
-  <a href="https://github.com/shellnaga/shellnaga/discussions">Ideas &amp; feedback</a>
+  <a href="https://github.com/shellnaga/feedback/releases">Releases</a> ·
+  <a href="https://github.com/shellnaga/feedback/blob/main/CHANGELOG.md">Changelog</a> ·
+  <a href="https://github.com/shellnaga/feedback/issues/new/choose">Report a bug</a> ·
+  <a href="https://github.com/shellnaga/feedback/discussions">Ideas &amp; feedback</a>
 </p>
 
 Tabs and split panes; WSL, PowerShell, Git Bash and cmd in one window; a native SSH client with jump hosts, SFTP,
 mosh and tmux; drawn on the GPU.
 
 Shell'Naga is closed-source software under its [license agreement](https://shellnaga.sh/eula). The
-[shellnaga](https://github.com/shellnaga/shellnaga) repository carries the release notes, the installers and the
+[feedback](https://github.com/shellnaga/feedback) repository carries the release notes, the installers and the
 issue tracker. Contact: support@shellnaga.sh.
